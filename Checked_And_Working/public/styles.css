@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  margin: 4rem;
+}
+
+.dotted {
+  border-style: dashed;
+  color: lightblue;
+}
+
+h1 {
+  text-align: center;
+}
